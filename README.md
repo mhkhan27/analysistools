@@ -61,7 +61,7 @@ You can install the development version of analysistools from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("impact-initiatives/analysistools")
+devtools::install_github("mhkhan27/analysistools")
 ```
 
 ## Example
