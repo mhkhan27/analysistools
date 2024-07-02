@@ -8,8 +8,20 @@
 \description{
 The package provides a couple of wrappers around srvyr and tidyverse to perform some analysis primarly based on dataset collected throught ODK format.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://impact-initiatives.github.io/analysistools/}
+}
+
+}
 \author{
 \strong{Maintainer}: Yann Say \email{yann.say@impact-initiatives.org} (\href{https://orcid.org/0000-0002-7390-4209}{ORCID})
+
+Authors:
+\itemize{
+  \item Mehedi Khan \email{mh.khan@reach-initiative.org} (\href{https://orcid.org/0000-0002-4276-4485}{ORCID})
+}
 
 }
 \keyword{internal}
